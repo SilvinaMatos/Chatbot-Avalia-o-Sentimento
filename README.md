@@ -62,17 +62,23 @@ Exemplo de saída salva:
  └── README.md
 
 🚀 Como Rodar o Projeto
-1️⃣ Instalar dependências
+1️⃣ Instalar no computador os aplicativos:
 
-No terminal:
+Git:  https://git-scm.com/install/
 
-npm install
+Node: https://nodejs.org/en/download/
 
-2️⃣ Iniciar o chatbot
+Visual Studio Code: https://code.visualstudio.com/download
+
+
+Salvar os arquivos em uma pasta
+
+Abrir no Visual Studio Code, no terminal  colocar o comando:
+
 node chatbot.js
 
-
 O terminal mostrará um QR Code.
+
 Escaneie com seu WhatsApp em:
 
 Configurações → Aparelhos Conectados → Conectar aparelho
